@@ -13,7 +13,6 @@ class _MySplashPageState extends State<MySplashPage> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      color: Colors.red,
     );
   }
 }
