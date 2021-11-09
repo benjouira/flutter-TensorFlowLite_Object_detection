@@ -16,3 +16,4 @@ class _MySplashPageState extends State<MySplashPage> {
     );
   }
 }
+
