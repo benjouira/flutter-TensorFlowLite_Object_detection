@@ -45,8 +45,8 @@ class _HomePageState extends State<HomePage> {
             children: [
               Center(
                 child: Container(
-                  height: 320,
-                  width: 330,
+                  height: 300,
+                  width: 300,
                   child: Image.asset("images/3.jpg"),
                 ),
               ),
